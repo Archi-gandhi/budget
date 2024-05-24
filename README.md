@@ -10,7 +10,6 @@ Responsive design for mobile and desktop
 
 Installation
 To run this project locally, follow these steps:
-git clone https://github.com/yourusername/react-budget-manager.git
 
 cd budget manager
 
