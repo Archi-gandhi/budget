@@ -8,7 +8,7 @@ Visualize financial data with charts
 Monthly and yearly summaries
 Responsive design for mobile and desktop
 
-Installation
+Installation:
 To run this project locally, follow these steps:
 
 cd budget manager
