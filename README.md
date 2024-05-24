@@ -15,12 +15,6 @@ cd budget manager
 
 npm start
 
-Technologies Used:-
-React - JavaScript library for building user interfaces
-Redux - State management
-Chart.js - For creating charts and graphs
-React Router - For routing
-Bootstrap - For responsive design
 
 Contact:
 GitHub Username: Archi-gandhi
